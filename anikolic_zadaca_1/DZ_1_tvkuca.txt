@@ -1,0 +1,3 @@
+﻿id; naziv programa; početak; kraj;naziv datoteke
+1; 1. FOI program; 6:00;;DZ_1_program_1.txt
+2; 2. FOI program; 7:30; 23:15;DZ_1_program_2.txt
